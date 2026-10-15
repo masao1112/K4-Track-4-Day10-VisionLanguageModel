@@ -1,7 +1,8 @@
-Họ tên: Thai Anh
+Họ tên: Đào Quang Thái Anh
+Mã sinh viên: 2A202602987
 `dataset_version`: d10-21e4070301
 
-## Bảng tổng hợp (số của bạn, lấy từ `report/evidence/*.json`)
+## Bảng tổng hợp
 
 | Mã | Setup | Tham số huấn luyện | VRAM đỉnh (GB) | Phút | F1 | CI95 | FP/ảnh | F1 pothole | F1 crack | F1 manhole |
 |---|---|---|---|---|---|---|---|---|---|---|
